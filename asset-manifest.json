@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EvgeniyPryanichnikov/ra-watches/static/css/main.ecce283c.css",
+    "main.js": "/EvgeniyPryanichnikov/ra-watches/static/js/main.bd2f01a9.js",
+    "static/js/488.5dd3bd9a.chunk.js": "/EvgeniyPryanichnikov/ra-watches/static/js/488.5dd3bd9a.chunk.js",
+    "static/media/Inter.ttf": "/EvgeniyPryanichnikov/ra-watches/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "static/media/1639326652_21-papik-pro-p-tsiferblat-klipart-22.png": "/EvgeniyPryanichnikov/ra-watches/static/media/1639326652_21-papik-pro-p-tsiferblat-klipart-22.72b83f3b9d03aab40edd.png",
+    "index.html": "/EvgeniyPryanichnikov/ra-watches/index.html",
+    "main.ecce283c.css.map": "/EvgeniyPryanichnikov/ra-watches/static/css/main.ecce283c.css.map",
+    "main.bd2f01a9.js.map": "/EvgeniyPryanichnikov/ra-watches/static/js/main.bd2f01a9.js.map",
+    "488.5dd3bd9a.chunk.js.map": "/EvgeniyPryanichnikov/ra-watches/static/js/488.5dd3bd9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecce283c.css",
+    "static/js/main.bd2f01a9.js"
+  ]
+}
