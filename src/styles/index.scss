@@ -14,22 +14,27 @@
   display: flex;
   font-size: 1.3rem;
 }
+
 .form__input-box {
   display: flex;
   flex-direction: column;
+
   &:nth-child(n+2) {
     margin-left: 3em;
   }
 }
+
 .form__label {
   font-weight: 700;
   margin-left: 1em;
 }
+
 .form__input {
   border: 2px solid #000;
   padding: .5em;
   margin-top: 1em;
 }
+
 .form__btn {
  margin-left: 3em;
  margin-top: 40px;
