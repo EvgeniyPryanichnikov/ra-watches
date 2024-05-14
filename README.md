@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/jebs6bpx98jibe7j?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-watches)
 
 Мировые часы
 ===
